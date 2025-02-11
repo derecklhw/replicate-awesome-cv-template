@@ -16,7 +16,7 @@
       <Button @click="print" class="hover:bg-gray-50 border-2 font-bold py-2 px-4 rounded"
         >Print my CV
       </Button>
-      <a href="https://github.com/derecklhw/vue3-awesome-cv-template" target="_blank">
+      <a href="https://github.com/derecklhw/replicate-awesome-cv-template" target="_blank">
         <font-awesome-icon :icon="['fa-brands', 'fa-github']" class="size-12 hover:text-gray-500" />
       </a>
     </div>
